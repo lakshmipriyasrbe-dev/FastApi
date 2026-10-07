@@ -1,0 +1,8 @@
+to run 
+======
+uvicorn main:app --host 0.0.0.0 --port --8000 --reload
+
+to get requirements
+===================
+
+pip freeze requirements.txt (it will create the file with dependencies for this project)
